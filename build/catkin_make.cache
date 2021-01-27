@@ -1,0 +1,2 @@
+beginner_tutorials:gazebo_ros_demos/gazebo_tutorials:gazebo_ros_demos/rrbot_control:gazebo_ros_demos/rrbot_description:gazebo_ros_demos/rrbot_gazebo:gazebo_ros_pkgs/gazebo_dev:gazebo_ros_pkgs/gazebo_msgs:gazebo_ros_pkgs/gazebo_plugins:gazebo_ros_pkgs/gazebo_ros:gazebo_ros_pkgs/gazebo_ros_control:gazebo_ros_pkgs/gazebo_ros_pkgs:gowtham_arm:learning_tf:openni_camera/openni_camera:openni_camera/openni_description:openni_camera/openni_launch:openni_tracker
+-DCATKIN_DEVEL_PREFIX=/home/gowtham/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/gowtham/catkin_ws/install -G Unix Makefiles

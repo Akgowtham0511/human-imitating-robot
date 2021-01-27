@@ -1,0 +1,8 @@
+prefix=/home/gowtham/catkin_ws/devel
+
+Name: gowtham_arm
+Description: Description of gowtham_arm
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

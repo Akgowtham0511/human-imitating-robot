@@ -1,0 +1,16 @@
+<package>
+  <description brief="skeleton">
+
+     skeleton
+
+  </description>
+  <author>gowtham</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/skeleton</url>
+  <depend package="rospy"/>
+  <depend package="tf"/>
+
+</package>
+
+
